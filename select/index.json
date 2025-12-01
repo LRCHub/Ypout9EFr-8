@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アイノカタチ",
+  "base_artist": "GRe4N BOYZ",
+  "createdAt": "2025-12-01T03:39:39.214129Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛のカタチ",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_01_愛のカタチ_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛の形",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_02_愛の形_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛のかたち",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_03_愛のかたち_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛のカタチ",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_04_愛のカタチ_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "愛のかたち",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_05_愛のかたち_ナオト・インティライミ.txt"
+    }
+  ]
+}
